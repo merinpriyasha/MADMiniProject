@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Secret Gift</string>
+    <string name="Cart_Msg1">Send suprise gift to Sri Lanka with Same Day Delivery Options</string>
+    <string name="Cart_Msg2">Order from us right away, will make your event special</string>
+    <string name="Cart_Msg3">Gift your loved ones with our products</string>
+    <string name="Shiperment_Msg1">No matter where you are: whether you are at home, or in other location</string>
+    <string name="Shiperment_Msg2">Delivery Details</string>
+    <string name="Shiperment_Msg3">Come visit us again on Secret gift</string>
+</resources>
